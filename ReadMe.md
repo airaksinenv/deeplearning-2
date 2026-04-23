@@ -23,3 +23,11 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tehtävänanto](2_Writing_tensorflow_code\Task_2_1.md)
 
+[Koodi](2_Writing_tensorflow_code\TF_exercise_flowers_with_data_augmentation_exercise_NN.ipynb)
+
+[Tulokset ja oma arviointi](2_Writing_tensorflow_code\Results_2_1.md)
+
+### Tehtävä 2.2
+
+[Tehtävänanto](2_Writing_tensorflow_code\Task_2_2.md)
+
