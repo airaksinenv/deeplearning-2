@@ -63,3 +63,23 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 [Koulutettu malli](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/models/flower_model_NN.keras)
 
 [Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Results_3_2.md)
+
+## 4. Training model on supercomputer
+
+### Tehtävä 4.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/Task_4_1.md)
+
+[Slurm batch script](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/Flower_script.sh)
+
+[Train script](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/training_script.py)
+
+[Train log](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/train_log.out)
+
+[Test script](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/test_script.py)
+
+[Test log](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/test_log.out)
+
+[Koulutettu malli](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/models/flower_model_NN.keras)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/Results_4_2.md)

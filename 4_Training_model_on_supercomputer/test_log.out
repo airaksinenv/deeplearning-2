@@ -1,0 +1,16 @@
+Testing flower model
+UTC time: 2026-04-26T20:19:18.996272+00:00
+test dataset: /run/nvme/job_34187755/data/flower_job_data/flower_photos/val
+model path: /projappl/project_2018566/models/flower_model_NN.keras
+tested images: 735
+
+Found 735 files belonging to 5 classes.
+12/12 - 1s - 122ms/step - accuracy: 0.7252 - loss: 0.6717
+
+Results
+UTC time: 2026-04-26T20:19:18.996272+00:00
+run_time: 3.6165452003479004
+tested images: 735
+correct %: 72.51700758934021
+test loss per image: 0.6717022061347961
+Finished testing.
