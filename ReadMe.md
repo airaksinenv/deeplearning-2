@@ -82,4 +82,15 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Koulutettu malli](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/models/flower_model_NN.keras)
 
-[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/Results_4_2.md)
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/4_Training_model_on_supercomputer/Results_4_1.md)
+
+## 5. MLOps
+
+### Tehtävä 5.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/5_MLOps/Task_5_1.md)
+
+[Train script](https://github.com/airaksinenv/deeplearning-2/blob/main/5_MLOps/training_script.py)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/5_MLOps/Results_5_1.md)
+
