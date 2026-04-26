@@ -31,3 +31,23 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/2_Writing_tensorflow_code/Task_2_2.md)
 
+[Koodi](https://github.com/airaksinenv/deeplearning-2/blob/main/2_Writing_tensorflow_code/TF_exercise_flowers_with_transfer_learning_exercise_NN.ipynb)
+
+[Koulutettu neuroverkko](https://github.com/airaksinenv/deeplearning-2/blob/main/2_Writing_tensorflow_code/flowers_saved_NN.keras)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/2_Writing_tensorflow_code/Results_2_2.md)
+
+## 3. Distributed training (N x GPU)
+
+### Tehtävä 3.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Task_3_1.md)
+
+[Koodi](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/TF_exercise_flowers_multiGPU_NN.ipynb)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Results_3_1.md)
+
+
+### Tehtävä 3.2
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Task_3_2.md)
