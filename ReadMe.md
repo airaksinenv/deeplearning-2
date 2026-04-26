@@ -51,3 +51,15 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 ### Tehtävä 3.2
 
 [Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Task_3_2.md)
+
+[Train script](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/train_flower_model_NN.py)
+
+[Train log](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/train_log.out)
+
+[Test script](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/test_flower_model_NN.py)
+
+[Test log](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/test_log.out)
+
+[Koulutettu malli](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/models/flower_model_NN.keras)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/3_Distribted_training/Results_3_2.md)
