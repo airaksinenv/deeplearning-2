@@ -94,3 +94,12 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/5_MLOps/Results_5_1.md)
 
+## 6. Model libraries
+
+### Tehtävä 6.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/6_Model_libraries/Task_6_1.md)
+
+[Koodi](https://github.com/airaksinenv/deeplearning-2/blob/main/6_Model_libraries/huggingface_model_test_NN.ipynb)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/6_Model_libraries/Results_6_1.md)
