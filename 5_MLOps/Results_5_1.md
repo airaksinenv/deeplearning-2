@@ -42,4 +42,4 @@
 
     ![metrics](images/metrics.png)
 
-Oma arvioini tehtävästä on 4/5 pistettä.
+Oma arvioni tehtävästä on 4/5 pistettä.

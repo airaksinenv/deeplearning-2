@@ -46,4 +46,4 @@
 
     ![train log 2](images/train_log2.png)
 
-Oma arvioini tehtävästä on 8/9 pistettä.
+Oma arvioni tehtävästä on 8/9 pistettä.

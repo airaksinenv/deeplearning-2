@@ -47,4 +47,4 @@
     - Näistä 2/2 pistettä
 
 
-Oma arvioini tehtävästä on 5/5 pistettä 
+Oma arvioni tehtävästä on 5/5 pistettä 

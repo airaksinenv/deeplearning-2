@@ -22,4 +22,4 @@
 ![graphs](images/graphs.png)
 
 
-Oma arvioini tehtävästä on 5/5 pistettä 
+Oma arvioni tehtävästä on 5/5 pistettä 
