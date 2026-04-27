@@ -128,6 +128,8 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/Task_8_2.md)
 
+[Llama3.2:1b mallin arvio](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/Results_8_2.md)
+
 ## 9. Machine Learning and Ethics
 
 ### Tehtävä 9.1
