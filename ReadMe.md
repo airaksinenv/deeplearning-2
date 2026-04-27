@@ -4,6 +4,8 @@ Valtteri Airaksinen TTV20SAI
 
 Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niiden vastaukset sekä tehtäviin käytetyt koodit.
 
+Tehtävien teossa on käytetty apuna ChatGPT-5.3 -mallia plus tilauksella.
+
 
 ## 1. Introduction to Tensorflow
 
