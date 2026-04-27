@@ -114,6 +114,20 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/Results_7_1.md)
 
+## 8. LLMs
+
+### Tehtävä 8.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/Task_8_1.md)
+
+[Koodi](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/tokenizers_NN.ipynb)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/Results_8_1.md)
+
+### Tehtävä 8.2
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/8_LLMs/Task_8_2.md)
+
 ## 9. Machine Learning and Ethics
 
 ### Tehtävä 9.1
