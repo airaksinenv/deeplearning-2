@@ -55,19 +55,22 @@ function myTimeout1() {
 // Function for image classification 
 async function processModel(img_tensor){
     console.log("Load model...")
-    // A. Load Keras model with tf.loadLayersModel() -function
-    // let model = await tf.loadLayersModel('/catdog_tfjs_1/model.json');
-    // B. Load Graph model with tf.loadLayersModel() -function
-    let model = await tf.loadGraphModel('/catdog_tfjs_2/model.json');
+
+    let model = await tf.loadGraphModel("./flower_model/model.json");
+
     console.log("Predict...")
-    let prediction = model.predict(img_tensor);
-    prediction.print()  
-    let ind = tf.argMax(prediction, 1)
-    let classes = ['cat', 'dog'];
-    ind.print();
-    let result = classes[ind.dataSync()]; 
+    let prediction = model.execute(img_tensor);
+
+    let classes = ['dandelion', 'daisy', 'tulips', 'sunflowers', 'roses'];
+
+    let predictionData = prediction.dataSync();
+    let ind = tf.argMax(prediction, 1).dataSync()[0];
+
+    let confidence = predictionData[ind] * 100;
+    let result = classes[ind] + " (" + confidence.toFixed(2) + "%)";
+
     return result;
-    }
+}
    
        
 // Function for image preprocessing before classification 
@@ -79,7 +82,8 @@ function preprocess(imgData)
     let resized = tf.image.resizeBilinear(tensor, [224, 224]).toFloat()
     // Normalize the image 
     let offset = tf.scalar(255.0);
-       let normalized = tf.scalar(1.0).sub(resized.div(offset));
+       //let normalized = tf.scalar(1.0).sub(resized.div(offset));
+       let normalized = resized.div(offset);
        //We add a dimension to get a batch shape 
        let batched = normalized.expandDims(0)
        return batched
