@@ -103,3 +103,21 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 [Koodi](https://github.com/airaksinenv/deeplearning-2/blob/main/6_Model_libraries/huggingface_model_test_NN.ipynb)
 
 [Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/6_Model_libraries/Results_6_1.md)
+
+## 7. Model deployment
+
+### Tehtävä 7.1
+
+[Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/Task_7_1.md)
+
+[Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/Results_7_1.md)
+
+## 9. Machine Learning and Ethics
+
+### Tehtävä 9.1
+
+Kirjoita 2-4 sivun essee, miten eettiset näkökulmat vaikuttavat tekoälyn kehitykseen ja käyttöön.
+
+Palauta essee PDF muodossa.
+
+[Valmis essee](https://github.com/airaksinenv/deeplearning-2/blob/main/9_Machine_learning_and_ethics/machine_learning_and_ethics.pdf)
