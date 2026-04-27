@@ -110,6 +110,8 @@ Tämä repository sisältää kaikki Syväoppiminen 2 kurssin tehtävät ja niid
 
 [Tehtävänanto](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/Task_7_1.md)
 
+[Muokattu nettisivu paketoituna](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/kukkaverkko_NN.zip)
+
 [Tulokset ja oma arviointi](https://github.com/airaksinenv/deeplearning-2/blob/main/7_Model_deployment/Results_7_1.md)
 
 ## 9. Machine Learning and Ethics
